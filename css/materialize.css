@@ -5035,7 +5035,8 @@ nav ul a span.badge {
 .container {
   margin: 0 auto;
   max-width: 1280px;
-  width: 90%; }
+  width: 90%%;
+  }
 
 @media only screen and (min-width : 601px) {
   .container {
@@ -5138,7 +5139,7 @@ nav ul a span.badge {
         width: 8.33333%;
         margin-left: 0; }
       .row .col.m2 {
-        width: 16.66667%;
+        width: 20%;
         margin-left: 0; }
       .row .col.m3 {
         width: 25%;
